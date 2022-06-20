@@ -3,9 +3,10 @@
 An analysis of ride share data looking at how trends various metrics relate to the type of city. This 
 analysis focused on how the city type differs in total number of rides, total drivers, total fares, and average fare per ride and driver.
 
-## Resources
--Data Source: ride_date.csv, city_data.csv
--Software: Python 3.10, Jupyter Notebook
+## Technologies/Resources
+- Data Source: ride_date.csv, city_data.csv
+- Software: Python 3.10, Jupyter Notebook
+- Libraries: pandas, matplotlib
 
 ## Results
 ### When sorted by city type, the analysis of the ride share data shows that:
